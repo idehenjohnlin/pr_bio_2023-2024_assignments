@@ -1,0 +1,19 @@
+john@john-VirtualBox
+ MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Linuxmint 21.2 victoria
+ MMm----::-://////////////oymNMd+`     Kernel: x86_64 Linux 5.15.0-76-generic
+ MMd      /++                -sNMd:    Uptime: 13m
+ MMNso/`  dMM    `.::-. .-::.` .hMN:   Packages: 2163
+ ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   Shell: bash 5.1.16
+     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   Resolution: 800x600
+     NMm  dMM  -MMm  `MMM   dMM. dMM   DE: GNOME
+     NMm  dMM  -MMm  `MMM   dMM. dMM   WM: Muffin
+     NMm  dMM  .mmd  `mmm   yMM. dMM   WM Theme: Mint-Y-Dark-Aqua (Mint-Y)
+     NMm  dMM`  ..`   ...   ydm. dMM   GTK Theme: Mint-Y-Aqua [GTK2/3]
+     hMM- +MMd/-------...-:sdds  dMM   Icon Theme: Mint-Y-Sand
+     -NMm- :hNMNNNmdddddddddy/`  dMM   Font: Ubuntu 10
+      -dMNs-``-::::-------.``    dMM   Disk: 12G / 2,0T (1%)
+       `/dMNmy+/:-------------:/yMMM   CPU: AMD 3020e with Radeon Graphics @ 2x 1.198GHz
+          ./ydNMMMMMMMMMMMMMMMMMMMMM   GPU: llvmpipe (LLVM 15.0.6, 256 bits)
+             \.MMMMMMMMMMMMMMMMMMM     RAM: 800MiB / 1635MiB
+
+

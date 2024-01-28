@@ -1,0 +1,17 @@
+>sequence 1 (ambiguidade)
+ATRACWCATGCTDATGCAHGC
+>sequence 1-A (without ambiguidade)
+ATGACACATGCTTATGCACGC
+>sequence 1-B (without ambiguidade)
+ATAACACATGCTTATGCACGC
+>sequence 1-C (without ambiguidade)
+ATGACTCATGCTTATGCAAGC
+>sequence 1-A (reverse)
+CGCACGTATTCGTACACAGTA
+>sequence 1-A (complement)
+TACTGTGTACGAATACGTGCG
+>sequence 1-A (reverse-complement)
+GCGTGCATAAGCATGTGTCAT
+>Aminoacids of 1-A
+MTHAYAR
+
